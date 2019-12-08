@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 9491f01 (HEAD -> master, origin/master, origin/HEAD) HEAD@{0}: checkout: moving from develop to master
 7251cd0 (origin/develop, develop) HEAD@{1}: commit (merge): conclude merge
 25d2299 HEAD@{2}: commit (merge): realy fix bag
@@ -19,3 +20,26 @@ f86c0c0 HEAD@{17}: commit: create index.html from develop branch
 9491f01 (HEAD -> master, origin/master, origin/HEAD) HEAD@{18}: checkout: moving from master to develop
 9491f01 (HEAD -> master, origin/master, origin/HEAD) HEAD@{19}: commit: create new folder. new text file and add this to stage
 fe88a12 HEAD@{20}: clone: from https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1
+=======
+9491f01 (HEAD -> master, origin/master, origin/HEAD) HEAD@{0}: checkout: moving from develop to master
+7251cd0 (origin/develop, develop) HEAD@{1}: commit (merge): conclude merge
+25d2299 HEAD@{2}: commit (merge): realy fix bag
+6113fff HEAD@{3}: commit: resolve conflict
+f86c0c0 HEAD@{4}: checkout: moving from styles to develop
+d05c2e7 (origin/styles, styles) HEAD@{5}: checkout: moving from develop to styles
+f86c0c0 HEAD@{6}: checkout: moving from styles to develop
+d05c2e7 (origin/styles, styles) HEAD@{7}: checkout: moving from develop to styles
+f86c0c0 HEAD@{8}: checkout: moving from styles to develop
+d05c2e7 (origin/styles, styles) HEAD@{9}: checkout: moving from develop to styles
+f86c0c0 HEAD@{10}: checkout: moving from styles to develop
+d05c2e7 (origin/styles, styles) HEAD@{11}: commit: add styles folder and css file with styles in it
+f86c0c0 HEAD@{12}: checkout: moving from develop to styles
+f86c0c0 HEAD@{13}: checkout: moving from images to develop
+6d4f0c7 (origin/images, images) HEAD@{14}: commit: add image sourse inside index.html
+9742e35 HEAD@{15}: commit: add images folder with picture in it, did git add
+f86c0c0 HEAD@{16}: checkout: moving from develop to images
+f86c0c0 HEAD@{17}: commit: create index.html from develop branch
+9491f01 (HEAD -> master, origin/master, origin/HEAD) HEAD@{18}: checkout: moving from master to develop
+9491f01 (HEAD -> master, origin/master, origin/HEAD) HEAD@{19}: commit: create new folder. new text file and add this to stage
+fe88a12 HEAD@{20}: clone: from https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1
+>>>>>>> 569ebbb2e2cd0ccf49ef32887d743f154bc78961
