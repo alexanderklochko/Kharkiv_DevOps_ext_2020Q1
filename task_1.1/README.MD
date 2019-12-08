@@ -1,0 +1,2 @@
+DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support.
+DevOps is also characterized by operations staff making use many of the same techniques as developers for their systems work.
