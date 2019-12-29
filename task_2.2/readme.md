@@ -37,7 +37,7 @@
 
 Далее было выполнено подключение к машине по SSH, для этого использовалась программа Putty, что изображено на рисунке ниже:
 
-![SSH подключение](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/Connect_vis_SSH.png)
+![SSH подключение](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/blob/master/task_2.2/im/Connect_vis_SSH.PNG)
 
 Выключение и удаление машины показано на рисунке ниже:
 
