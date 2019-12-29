@@ -1,15 +1,16 @@
-﻿ЧАСТЬ 1. РАБОТА С VIRTUALBOX
+**ЧАСТЬ 1.РАБОТА С VIRTUALBOX**
+ 
 В этой части задания была создана виртуальна машина, с установленной на ней Ubuntu 16.04 LTS.
 Были изучены основные возможности VirtuaBox, например, такие как сохранение состаяния машины (см. рисунок ниже).
 
 ![Состояние машины](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/State_machine.png)
 
-Так же был сделан экспорт виртуальной машыны, который доступен по [ссылке](https://drive.google.com/open?id=1B7vSY7Y920tuRLvOuLXKNYd_4uIFH7m_)
-Далее были изучены возможности конфигурирования мишин как через GUI (рисунок ниже):
+Так же был сделан экспорт виртуальной машины, который доступен по [ссылке](https://drive.google.com/open?id=1B7vSY7Y920tuRLvOuLXKNYd_4uIFH7m_)
+Далее были изучены возможности конфигурирования машин, как через GUI (рисунок ниже):
 
 ![Состояние машины](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/share.png)
 
-так и через CLI
+так и через CLI:
 
 ![Создание виртуальной машины](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/CreateVM.png)
 
@@ -27,7 +28,7 @@
 
 ![Соединение двух ВМ](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/VM_1-VM_2.png)
 
-ЧАСТЬ 2. РАБОТА С VAGRANT
+**ЧАСТЬ 2. РАБОТА С VAGRANT**
 
 В этой части задания был установлен Vagrant, с помощью которого было создано и запущено несколько виртуальных машин, настройки машин были заданы через Vagrantfile, 
 скриншот процесса зоздания одной из виртуальных машин приведен ниже:
