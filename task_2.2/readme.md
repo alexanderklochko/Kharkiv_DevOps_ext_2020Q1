@@ -4,8 +4,7 @@
 
 ![Состояние машины](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/c/Users/mikin/Kharkiv_DevOps_ext_2020Q1/task_2.2/im/State_machine.png)
 
-Так же был сделан экспорт виртуальной машыны, который доступен по [ссылке](https://drive.google.com/open?id=1B7vSY7Y920tuRLvOuLXKNYd_4uIFH7m_ - link to
-ubuntu_16.ova file)
+Так же был сделан экспорт виртуальной машыны, который доступен по [ссылке](https://drive.google.com/open?id=1B7vSY7Y920tuRLvOuLXKNYd_4uIFH7m_-linktoubuntu_16.ovafile)
 
 Далее были изучены возможности конфигурирования мишин как через GUI (рисунок ниже):
 
