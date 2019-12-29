@@ -14,7 +14,7 @@
 
 ![Создание виртуальной машины](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/CreateVM.png)
 
-![Выполнение команды showvminfo](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/showvminfohowvminfo.png)
+![Выполнение команды showvminfo](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/blob/master/task_2.2/im/showvminfo.png)
 
 ![Выполнение команды snapshot](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/take_a_snapshot.png)
 
@@ -41,8 +41,8 @@
 
 Выключение и удаление машины показано на рисунке ниже:
 
-![Выполнение команд "halt" и "destroy"](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/halt_and_destroi.png)
+![Выполнение команд "halt" и "destroy"](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/blob/master/task_2.2/im/halt_and_destroi.PNG)
 
 В конце задания был создан VagranBox Ubuntu_server_64. Ниже представлен снимок выполнения команды "vagrant box list"
 
-![Список доступных боксов](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/raw/master/task_2.2/im/create_a_box.png)
+![Список доступных боксов](https://github.com/alexanderklochko/Kharkiv_DevOps_ext_2020Q1/blob/master/task_2.2/im/create_a_box.PNG)
